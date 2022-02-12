@@ -1,0 +1,2 @@
+import { getLatestAdverts } from "../service";
+
